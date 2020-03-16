@@ -18,7 +18,8 @@ It is a short call, but we believe we need to act promptly. We expect all projec
 
 ## Can I join? How?
 
-Join this event on facebook. Visit https://github.com/hackpandemic/hackathon. We'll open the "issues" (https://github.com/hackpandemic/hackathon/issues) section of this project on March 18 - feel invited to join, or propose a new one!
+Visit https://github.com/hackpandemic/hackathon. We'll open the "issues" (https://github.com/hackpandemic/hackathon/issues) section of this project on March 18 - feel invited to join, or propose a new one!
+Join us on facebook, we'll be publishing more updates soon. 
 
 ## Contact
 

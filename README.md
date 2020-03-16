@@ -1,4 +1,8 @@
-We organize an open, remote hackathon to mitigate the negative outcomes of the COVID-19 pandemic. Everyone is invited to join! (poniżej wersja po polsku)
+# HackPandemic - an antiCOVID online hackathon
+
+We organize an open, remote hackathon to mitigate the negative outcomes of the COVID-19 pandemic. Everyone is invited to join!
+
+*poniżej wersja po polsku* / *Polish version below*
 
 ## Why & what?
 
@@ -18,8 +22,11 @@ It is a short call, but we believe we need to act promptly. We expect all projec
 
 ## Can I join? How?
 
-Visit https://github.com/hackpandemic/hackathon. We'll open the "issues" (https://github.com/hackpandemic/hackathon/issues) section of this project on March 18 - feel invited to join, or propose a new one!
-Join us on facebook, we'll be publishing more updates soon. 
+Visit https://github.com/hackpandemic/hackathon.
+
+Project proposals are in the [Issues](https://github.com/hackpandemic/hackathon/issues) section. Feel invited to join, or propose a new one (using a template)! 
+
+Don't be afraid if it is empty right now - we start the main activities on March 18th. There is [a FB event page](https://www.facebook.com/events/205765420650729/) - we'll be publishing more updates soon. If you want to run a Twitter or Instagram channel, contact us.
 
 ## Contact
 
@@ -31,10 +38,7 @@ If you want to join as an organizer, mentor, or sponsor the event - contact us: 
 Tl;dr: Be nice to others. Organizers will do the best to provide a safe and inclusive environment. People not following this rule will be removed.
 
 
-
-
-
-Polish
+# HackPandemic - antyCOVIDowy internetowy hakaton 
 
 ## Po co?
 
@@ -64,13 +68,13 @@ Poszukujemy oczywiście uczestników, ale także mentorów, sponsorów i promoto
 Wyzwania, które stawia przed nami nowa sytuacja, są trudne i wielowymiarowe. Do udziału zapraszamy zatem nie tylko programistów/technologów, ale też personel medyczny, epidemiologów, studentów medycyny, socjologów, projektantów, ilustratorów... ta lista jest otwarta.
 
 
-## Jak dołączyć jako uczestnik?
+## Jak dołączyć jako uczestni(cz)k(a)?
 
 "Weź udział" w wydarzeniu na facebooku oraz repozytorium https://github.com/hackpandemic/hackathon - wkrótce opublikujemy więcej informacji.
 Jeśli nie planujesz wziąć udziału w wydarzeniu, ale jesteś nim zainteresowany, prosimy o kliknięcie "obserwuj" - pozwoli nam to na oszacowanie ilości uczestników.
 
 
-## Jak dołączyć jako mentor:
+## Jak dołączyć jako mentor(ka):
 
 Mentorzy to osoby, które nie są bezpośrednio zaangażowane w żaden z projektów - zamiast tego, są dostępne w czasie wydarzenia (im bardziej, tym lepiej), i swoją wiedzą ekspercką wspomagają wszystkie zespoły w razie potrzeby.
 Jeśli chciałbyś zostać mentorem, skontaktuj się z nami poprzez email: hackpandemic@gmail.com
